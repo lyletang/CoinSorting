@@ -1,0 +1,2 @@
+# CoinSorting
+2016年全国电子设计竞赛吉林赛区， 基于RaspberryPi的硬币自动识别及分拣装置
