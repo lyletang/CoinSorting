@@ -1,3 +1,6 @@
+# Coin sorting
+# Author: Jiahui Tang
+
 #coding:utf-8
 from colorlabeler import ColorLabeler
 #from shapedetector import ShapeDetector
